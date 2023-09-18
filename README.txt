@@ -1,3 +1,3 @@
  ATM-simulator
  In these program used tkinter
- And python librery
+ And python librery used
